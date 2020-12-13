@@ -1,0 +1,7 @@
+C:\Users\1342040\Documents\Visual Studio 2013\Projects\Train_Layering\Train_DAL\bin\Debug\Train_DAL.dll
+C:\Users\1342040\Documents\Visual Studio 2013\Projects\Train_Layering\Train_DAL\bin\Debug\Train_DAL.pdb
+C:\Users\1342040\Documents\Visual Studio 2013\Projects\Train_Layering\Train_DAL\bin\Debug\Train_Bo.dll
+C:\Users\1342040\Documents\Visual Studio 2013\Projects\Train_Layering\Train_DAL\bin\Debug\Train_Bo.pdb
+C:\Users\1342040\Documents\Visual Studio 2013\Projects\Train_Layering\Train_DAL\obj\Debug\Train_DAL.csprojResolveAssemblyReference.cache
+C:\Users\1342040\Documents\Visual Studio 2013\Projects\Train_Layering\Train_DAL\obj\Debug\Train_DAL.dll
+C:\Users\1342040\Documents\Visual Studio 2013\Projects\Train_Layering\Train_DAL\obj\Debug\Train_DAL.pdb

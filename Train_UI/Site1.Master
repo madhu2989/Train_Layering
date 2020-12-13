@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Train_UI.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="background-image:url(~/img60454972968.jpg)">
+    <header style="background-color:yellowgreen">
+        <h1 style="text-align:center;color:black">Welcome To Train Tracker</h1>
+    </header >
+    <div id="header">
+        <asp:Image ImageUrl="~/download.jpg" runat="server" Height="100px" Width="100px" />
+    </div>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        <footer>
+            <h3 style="text-align:left;color:red">Chikoo bukooo</h3>
+        </footer>
+    </div>
+    </form>
+</body>
+    
+</html>

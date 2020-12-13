@@ -1,0 +1,12 @@
+C:\Users\1342040\Documents\Visual Studio 2013\Projects\Train_Layering\Train_UI\obj\Debug\Train_UI.csprojResolveAssemblyReference.cache
+C:\Users\1342040\Documents\Visual Studio 2013\Projects\Train_Layering\Train_UI\bin\Train_UI.dll.config
+C:\Users\1342040\Documents\Visual Studio 2013\Projects\Train_Layering\Train_UI\bin\Train_UI.dll
+C:\Users\1342040\Documents\Visual Studio 2013\Projects\Train_Layering\Train_UI\bin\Train_UI.pdb
+C:\Users\1342040\Documents\Visual Studio 2013\Projects\Train_Layering\Train_UI\bin\Train_BLL.dll
+C:\Users\1342040\Documents\Visual Studio 2013\Projects\Train_Layering\Train_UI\bin\Train_Bo.dll
+C:\Users\1342040\Documents\Visual Studio 2013\Projects\Train_Layering\Train_UI\bin\Train_DAL.dll
+C:\Users\1342040\Documents\Visual Studio 2013\Projects\Train_Layering\Train_UI\bin\Train_BLL.pdb
+C:\Users\1342040\Documents\Visual Studio 2013\Projects\Train_Layering\Train_UI\bin\Train_Bo.pdb
+C:\Users\1342040\Documents\Visual Studio 2013\Projects\Train_Layering\Train_UI\bin\Train_DAL.pdb
+C:\Users\1342040\Documents\Visual Studio 2013\Projects\Train_Layering\Train_UI\obj\Debug\Train_UI.dll
+C:\Users\1342040\Documents\Visual Studio 2013\Projects\Train_Layering\Train_UI\obj\Debug\Train_UI.pdb
